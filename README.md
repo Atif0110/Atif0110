@@ -1,5 +1,5 @@
 <h1 align="center">Mohd Atif</h1>
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">Data Scientist | AI Engineer</h3>
 
 <p align="center">
   <a href="https://atif0110.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-atif0110.github.io-d01117?style=flat&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio"/></a>
