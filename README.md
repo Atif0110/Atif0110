@@ -22,7 +22,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Atif0110/Atif0110/raw/main/assets/data-engineering-animation.svg" alt="Data science and software engineering animation" width="850">
+  <img src="https://raw.githubusercontent.com/Atif0110/Atif0110/main/assets/hero.svg"
+       alt="Mohd Atif - Data Science and Software Engineering"
+       width="900">
 </p>
 
 ---
